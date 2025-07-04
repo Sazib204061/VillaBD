@@ -18,4 +18,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\VillaBD.Infrastructure\VillaBD.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>
